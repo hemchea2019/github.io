@@ -165,3 +165,7 @@ https://vodakm.zeenews.com/vod/WION/2807_CHINA_930AM.mp4/index.m3u8
 https://vodakm.zeenews.com/vod/WION/2807_FARMS_930AM.mp4/index.m3u8
 #EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_INDIA
 https://vodakm.zeenews.com/vod/WION/2807_INDIA_9AM.mp4/index.m3u8
+#EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
