@@ -94,10 +94,10 @@ https://es1-p1-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.me
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-45/live/streams/E-Learning.m3u8
 #EXTINF:-1 tvg-id="ABC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
 https://es2-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN (576p)
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN (576p)
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
+https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Arabic 
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNArabic.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Arabic 
