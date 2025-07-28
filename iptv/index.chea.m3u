@@ -143,7 +143,7 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNFrench.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Français 
 https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Русский 
+#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ", CGTN Русский 
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Русский 
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
