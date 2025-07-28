@@ -94,6 +94,10 @@ https://es1-p1-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.me
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-45/live/streams/E-Learning.m3u8
 #EXTINF:-1 tvg-id="ABC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
 https://es2-p1-netcdn.metfone.com.kh/netcdn-live-21/live/streams/live_2.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
