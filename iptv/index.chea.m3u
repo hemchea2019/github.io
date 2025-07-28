@@ -111,6 +111,10 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_900.m3u8
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
+#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u
+#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RTNEWS Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 2
