@@ -142,17 +142,17 @@ https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera Documentary
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-1
 https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-2
 https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-3
 https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-4
 https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-5
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-6
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_EU
 https://vodakm.zeenews.com/vod/WION/2807_EU_930AM.mp4/index.m3u8
