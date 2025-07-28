@@ -48,7 +48,7 @@ https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
 http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-https://live-evg13.tv360.metfone.com.kh/live/towntv.m3u8
+https://es2-p1-netcdn.metfone.com.kh/netcdn-live-51/LiveApp/streams/TownTVHD.m3u8
 #EXTINF:-1 tvg-id="TV3.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV3 
 https://edge6a.v2h-cdn.com/tv3cam/tv3cam.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV3
@@ -112,7 +112,9 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 #EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
-https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+ttps://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RTNEWS_Doc.
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 1
