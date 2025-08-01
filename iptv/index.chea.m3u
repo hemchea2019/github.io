@@ -96,6 +96,8 @@ https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TEAVN"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TEAVN
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="UNNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",UN WEB TV
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="UNNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",UN WEB TV
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_va8rn5a5/tl/main/st/0/t/n2YSHGmLEjZmGIqDGfPyRQ/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZhOHJuNWE1L3RsL21haW4vc3QvMC90L24yWVNIR21MRWpabUdJcURHZlB5UlEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MzgwMDcyMX19fV19&Signature=X5XfgBdV6mSUt1KzUN2U1X-ynrGJbV-HazwfhZfS-KPQHw~zT9641483gwGTTSeW1LGJN7QoHIbMlQKY4iou6nzxuMSCtgyq3p9GUlKeMakVG1aqPOICOXurO1oh6kfXcvRst7h1iC8jd1fDr4DTVHaKZcApcHBoAJfDgqj6BZTiVciUS9moTh3TKnrYSEs5Ago7rOVlCxEVJ4BdKZCBJL5tPLmmTrFRD0R9B0ssICC8MrP6-TZPgxyCCKaVFK7lBP7NTeOMo-A4aIFzppvvREFwroKMEFgZzUpcke9kKf~~s~UAehiLIgWg971aQqvIQ5m-m2Hsk5DcdybGUYt7Nw__&Key-Pair-Id=K31ANTJBLNVBEC
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
