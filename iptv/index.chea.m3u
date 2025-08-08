@@ -99,6 +99,8 @@ https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="UNNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",UN WEB TV
 https://cflive.kaltura.com/scf/env/d.live.nvp1/live/hls/p/2503451/e/1_va8rn5a5/tl/main/st/0/t/n2YSHGmLEjZmGIqDGfPyRQ/index-s32.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZmxpdmUua2FsdHVyYS5jb20vc2NmL2Vudi9kLmxpdmUubnZwMS9saXZlL2hscy9wLzI1MDM0NTEvZS8xX3ZhOHJuNWE1L3RsL21haW4vc3QvMC90L24yWVNIR21MRWpabUdJcURHZlB5UlEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1MzgwMDcyMX19fV19&Signature=X5XfgBdV6mSUt1KzUN2U1X-ynrGJbV-HazwfhZfS-KPQHw~zT9641483gwGTTSeW1LGJN7QoHIbMlQKY4iou6nzxuMSCtgyq3p9GUlKeMakVG1aqPOICOXurO1oh6kfXcvRst7h1iC8jd1fDr4DTVHaKZcApcHBoAJfDgqj6BZTiVciUS9moTh3TKnrYSEs5Ago7rOVlCxEVJ4BdKZCBJL5tPLmmTrFRD0R9B0ssICC8MrP6-TZPgxyCCKaVFK7lBP7NTeOMo-A4aIFzppvvREFwroKMEFgZzUpcke9kKf~~s~UAehiLIgWg971aQqvIQ5m-m2Hsk5DcdybGUYt7Nw__&Key-Pair-Id=K31ANTJBLNVBEC
+#EXTINF:-1 tvg-id="Euronews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Euronews
+https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
@@ -119,12 +121,16 @@ https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 ttps://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RTNEWS_Doc.
+#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RTN Doc.
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RTNEWS_Doc
+https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
@@ -150,6 +156,8 @@ https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Русский 
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT GLOBAL
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT GLOBAL
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",i24News 
 https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
@@ -157,6 +165,8 @@ https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/53
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/6YPZc24.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Channel8
 https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/awIDugE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/awIDugE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CNA
 https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap-southeast-1/6057994443001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/awIDugE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CNA
@@ -165,6 +175,8 @@ https://mediacorp-videosbclive.akamaized.net/8a496e61361c4079a0e16d8f09e79df9/ap
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/awIDugE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CNA International
 https://mediacorp-videosbclive.akamaized.net/dd724cfb0e8e4cdc921bbc4ac94614bf/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera EN
+https://live-hls-apps-aje-fa.getaj.net/alternative/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera
 https://live-hls-web-aje-fa.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera
@@ -181,7 +193,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
 #EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-5
 https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-6
+#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION EN
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION-7
 https://wion-klowdtv.amagi.tv/playlist.m3u8
@@ -193,6 +205,8 @@ https://vodakm.zeenews.com/vod/WION/2807_CHINA_930AM.mp4/index.m3u8
 https://vodakm.zeenews.com/vod/WION/2807_FARMS_930AM.mp4/index.m3u8
 #EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_INDIA
 https://vodakm.zeenews.com/vod/WION/2807_INDIA_9AM.mp4/index.m3u8
+#EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW News
