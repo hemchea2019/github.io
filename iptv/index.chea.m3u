@@ -206,3 +206,43 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV1
+https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv1_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV2
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv2_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV3
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv3_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV4
+ttps://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv4_1_720P/playlist.m3u8
+https://mlivewbndcnchw.v.cdn20.com/ldcctvwbcd/cdrmldcctv5_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV5+
+https://mlivewbndcnchw.v.cdn20.com/ldcctvwbcd/cdrmldcctv5plus_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV6
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv6_1_480P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV7
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv7_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV8
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV9
+hhttps://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv9_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV10
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv10_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV11
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv11_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV12
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV13
+https://ldncctvwbcdcnchw.v.cdn20.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV14
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctv14_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV15
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv15_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV16
+https://mlivewbndcnchw.v.cdn20.com/ldcctvwbcd/cdrmldcctv16_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV17
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv17_1_720P/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV4
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctveurope_1/index.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍ចិន",CCTV4
+https://ldocctvwbcdkshw.v.kcdnvip.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8
+
