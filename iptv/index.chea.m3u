@@ -69,10 +69,6 @@ https://es2-p1-netcdn.metfone.com.kh/netcdn-live-51/LiveApp/streams/TownTVHD.m3u
 http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia 
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia 
-https://live-evg3.tv360.metfone.com.kh/live/tv5.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia
-http://203.176.130.123:8989/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1753691248&mtvhash=woo2uMxIcOBZrqx8kW5vKNKUCoF5NujCAOTImtO-I48=
 #EXTINF:-1 tvg-id="ARDBTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ARDBTV
 https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
 #EXTINF:-1 tvg-id="WikiTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WIKITV 
