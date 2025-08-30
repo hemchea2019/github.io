@@ -37,8 +37,6 @@ http://43.252.18.195:5080/live/streams/ctn052025.m3u8
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MYTV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV9 
-https://live.kh.malimarcdn.com/live/tv9.stream/playlist.m38
 #EXTINF:-1 tvg-id="CTV9.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV9
 https://live-evg6.tv360.metfone.com.kh/CTV9HD@1.m3u8
 #EXTINF:-1 tvg-id="iTVHD.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",iTVHD
