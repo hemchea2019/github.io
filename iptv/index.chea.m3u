@@ -93,6 +93,8 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FOXNEWS.USA"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",FOX NEWS
+https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive1.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 1
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive2.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 2
