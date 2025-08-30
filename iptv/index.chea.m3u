@@ -93,8 +93,26 @@ https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjml
 https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
 https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="ABC News"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/f.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive1.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 1
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive2.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 2
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive3.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 3
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive4.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 4
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive5.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 5
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive6.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive7.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive8.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 8
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive9.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive10.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News Live 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
 #EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT documentary
