@@ -30,9 +30,9 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1754804075&mtvhash=GMc7zz042DkCmK1f9F95ZkpWykj58NT4xa4zgQ9kW5E=
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-7/livetest/bayontest.stream/chunklist_w1306306737.m3u8?timestamp=1763924547&uid=179&token=9f61bb9f933ecfae4707e6bc388c4265
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
-http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1756621383&mtvhash=roXL4NpGnbVC1iFbJZ9J7zDeJhFLdq9cwPdsonUzgnA=
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1763971216&mtvhash=sCc97ZN6bdau30nq1b17pe1849Uw2Agsw00auw9wuaM=
 #EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN 
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
