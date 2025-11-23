@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="MoINFTV.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ក្រសួងព័ត៌មាន
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m3u8?timestamp=1763926029&token=69e8eec9aedf5ecd53c5dddbdf02cf72&uid=179
 #EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8
+https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8?timestamp=1763926161&uid=179&token=24fdfef9d3b1c15f028f564c07457c98
 #EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
