@@ -7,6 +7,8 @@ https://es2-p1-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
+https://pull.kps-tv.com/live/kps99tv.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
 https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
