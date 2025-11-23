@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MoINFTV.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ក្រសួងព័ត៌មាន
-https://es1-p1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m3u8
 #EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
-https://es2-p1-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8
+https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
@@ -30,7 +30,7 @@ https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u
 #EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1754804075&mtvhash=GMc7zz042DkCmK1f9F95ZkpWykj58NT4xa4zgQ9kW5E=
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
-https://live-evg2.tv360.metfone.com.kh/livetest/bayontest.stream/playlist.m3u8
+https://p1-es2-netcdn.metfone.com.kh/netcdn-live-9/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
 http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1756621383&mtvhash=roXL4NpGnbVC1iFbJZ9J7zDeJhFLdq9cwPdsonUzgnA=
 #EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN 
