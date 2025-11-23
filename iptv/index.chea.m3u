@@ -26,7 +26,7 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Apsara.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
-https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-8/livebayontv/bayontvhd.stream/chunklist_w476343550.m3u8?timestamp=1763925966&uid=179&token=719fcf432746ca3fadba06129dcc4af0
 #EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
 http://203.176.130.123:8989/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1763972659&mtvhash=cg6eExpt_oZXdMJpYWmQ5Fsnc6j3QEdaGL8Gyi3LNS4=
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
