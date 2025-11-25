@@ -12,9 +12,7 @@ https://p1-es1-netcdn.metfone.com.kh/netcdn-live-104/live/streams/kps99tv.playli
 #EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
 https://pull.kps-tv.com/live/kps99tv.m3u8?txSecret=4a5f1027b77325cf2b46342ad218d6df&txTime=6923538e
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
-https://streaming.freshnewsasia.com/live/ngrp:myStream_all/chunklist_w1604031346_b1428000.m3u8
+https://web-streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
