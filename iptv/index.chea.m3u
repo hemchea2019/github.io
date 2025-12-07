@@ -78,7 +78,7 @@ https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8 
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AGG.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",AGGTV
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8?timestamp=1763926239&token=8da367ea8bea8e69409c93f2751da798&uid=179
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8?timestamp=1765102512&token=48d85ff0f166b5dc00530c154d83c9e3&uid=179
 #EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
 https://p1-es2-netcdn.metfone.com.kh/netcdn-live-102/live/streams/elearning.playlist.m3u8?timestamp=1765102227&token=6822a92a47bcc168aec19b72e821e26d&uid=179
 #EXTINF:-1 tvg-id="ABC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
