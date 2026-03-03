@@ -9,6 +9,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 https://pull.kps-tv.com/live/kps99tv.m3u8?txSecret=e9caa6116ea3722395470015cd36f92b&txTime=69355195
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
 https://web-streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MekongNet.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MekongNet
+https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FreshNews.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
