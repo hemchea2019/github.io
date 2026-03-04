@@ -5,6 +5,8 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
+http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
 #EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
 https://pull.kps-tv.com/live/kps99tv.m3u8?txSecret=e9caa6116ea3722395470015cd36f92b&txTime=69355195
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
@@ -19,6 +21,14 @@ https://p1-es1-netcdn.metfone.com.kh/netcdn-live-7/livetest/bayontest.stream/chu
 https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772590389&mtvhash=UPVbwQQZBvftmzISkkflbux5iZWtQLIRvndQ0aWOaJw=
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="CITVChannel.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CITVChannel
+http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
+#EXTINF:-1 tvg-id="EBC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="NiceTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Nice TV
+http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",រស្មីហង្សមាស
