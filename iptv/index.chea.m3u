@@ -5,6 +5,8 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WCVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WCVNews
+http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
 http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
 #EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
