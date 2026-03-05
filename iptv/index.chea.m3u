@@ -21,6 +21,8 @@ https://web-streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
 http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-id="MekongNet.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MekongNet
 https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
+https://stream.mekongtv.net/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766914&mtvhash=c9VmLKWOtRX8oeJDi8RZovHPS9Gd3sPZDqWB62MIer0=
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
 https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766647&mtvhash=4z_nERrRChE80tYn4i9q4KhyuQlKxxiM9PBbZlfpbHw=
 #EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
@@ -43,10 +45,6 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playl
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Apsara.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
-https://p1-es1-netcdn.metfone.com.kh/netcdn-live-8/livebayontv/bayontvhd.stream/chunklist_w476343550.m3u8?timestamp=1763925966&uid=179&token=719fcf432746ca3fadba06129dcc4af0
-#EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
-https://stream.mekongtv.net/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772590434&mtvhash=KYYkuga9VQv3-lVsknF7eeFGMP3LzNK7UDiv-ruoEYA=
 #EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN 
 http://live.happywatch99.com/livehd10/02587745dbd71d978954203d7ec78497.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
