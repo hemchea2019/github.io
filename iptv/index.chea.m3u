@@ -9,6 +9,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
 http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
+#EXTINF:-1 tvg-id="KoreanDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KoreanDrama
+http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
 #EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
 https://pull.kps-tv.com/live/kps99tv.m3u8?txSecret=e9caa6116ea3722395470015cd36f92b&txTime=69355195
 #EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
