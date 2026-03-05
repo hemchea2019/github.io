@@ -6,8 +6,6 @@ https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
