@@ -5,6 +5,10 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
+http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
+http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="WCVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WCVNews
@@ -35,8 +39,6 @@ https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="NiceTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Nice TV
 http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",រស្មីហង្សមាស
@@ -73,10 +75,6 @@ https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",វិទ្យអាស៊ីអាគ្នេយ៍
 https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-http://202.79.26.142:80/LiveApp/streams/TownTVHD.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia 
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-36/36/output/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia 
