@@ -5,6 +5,10 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
+http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
+https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="WCVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WCVNews
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
@@ -35,6 +39,8 @@ http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
 #EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
 http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:HMHDTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
+http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",រស្មីហង្សមាស
 http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Apsara.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
@@ -91,8 +97,6 @@ https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
 http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1753778195&mtvhash=GKeLBrAud8oQXtRwOt3suV_hvOHmaNT7HeXoawZs5fo=
 #EXTINF:-1 tvg-id="MOITV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MOI TV
 http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
-https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="CTV8HD.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8 
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="AGG.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",AGGTV
