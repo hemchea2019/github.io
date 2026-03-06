@@ -28,9 +28,9 @@ http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m
 #EXTINF:-1 tvg-id="MekongNet.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MekongNet
 https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
-https://stream.mekongtv.net/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766914&mtvhash=c9VmLKWOtRX8oeJDi8RZovHPS9Gd3sPZDqWB62MIer0=
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-8/livebayontv/bayontvhd.stream/chunklist_w334031701.m3u8?timestamp=1772803977&uid=179&token=3ebcaf1a3c37219526b2a57fcf644538
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
-https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766647&mtvhash=4z_nERrRChE80tYn4i9q4KhyuQlKxxiM9PBbZlfpbHw=
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-7/livetest/bayontest.stream/chunklist_w1611761097.m3u8?timestamp=1772803788&uid=179&token=364567af71197f7b8f2d38f53e74aad3
 #EXTINF:-1 tvg-id="CITVChannel.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CITVChannel
 http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
 #EXTINF:-1 tvg-id="EBC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC
