@@ -9,6 +9,10 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
 http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News
+http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="WCVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WCVNews
 http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
 #EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
@@ -27,8 +31,6 @@ https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
 https://stream.mekongtv.net/live/bayontv_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766914&mtvhash=c9VmLKWOtRX8oeJDi8RZovHPS9Gd3sPZDqWB62MIer0=
 #EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
 https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772766647&mtvhash=4z_nERrRChE80tYn4i9q4KhyuQlKxxiM9PBbZlfpbHw=
-#EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
-https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="CITVChannel.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CITVChannel
 http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
 #EXTINF:-1 tvg-id="EBC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC
