@@ -15,6 +15,14 @@ https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KoreanDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KoreanDrama
+https://live.dtvhd.com/live/streams/KoreanDrama.m3u8
+#EXTINF:-1 tvg-id="CHAMBER TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CHAMBER TV
+https://live.happywatch99.com/ccochdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="PP Digital TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV
+https://live.happywatch99.com/ppdhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="CA TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CA TV
+https://live.happywatch99.com/kaahdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id=" SHS TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ", SHS TV
 https://live.happywatch99.com/shshdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
