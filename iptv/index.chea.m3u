@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="FIFAWorldCup" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",FIFA World Cup
 https://stream.pdtvhd.com/LiveApp/streams/FIFAWorldCup.m3u8
+#EXTINF:-1 tvg-id="TVRI Sport" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVRI Sport
+https://live.pdtvhd.com/LiveApp/streams/fifa.m3u8
+#EXTINF:-1 tvg-id="1001TV" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV
+https://stream.pdtvhd.com/LiveApp/streams/1001TV.m3u8
 #EXTINF:-1 tvg-id="EBC_Edu." tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC_Edu.
 https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="MoINFTV.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ក្រសួងព័ត៌មាន
