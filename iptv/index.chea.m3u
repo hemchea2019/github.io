@@ -45,6 +45,8 @@ https://live.dtvhd.com/LiveApp/streams/NTVHDA.Dtvhd.com.m3u8
 https://restream.pdtvhd.com/memfs/309a68d6-96a1-498e-85ed-ec0bbf1ef5f6.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G28Jwyyp/MOI-TV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MOITV
 https://restream.dtvhd.com/memfs/7a8a600e-5fb0-47a5-92cf-881e198e05a0.m3u8,
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G28Jwyyp/MOI-TV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MOITV
+http://202.62.56.22:8080/hls/MOITV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qMvkwxVy/photo-2024-06-03-07-51-59.png" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
 https://live.pdtvhd.com/LiveApp/streams/ABCCambodia.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDjv1Krj/1.png" group-title="ប៉ុស្តិ៍ខ្មែរ",KhmerTV
@@ -59,6 +61,12 @@ https://live.happywatch99.com/ppdhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playl
 https://live.happywatch99.com/kaahdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6QqYthbL/unnamed.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
 https://restream.dtvhd.com/memfs/2e82fb81-bb5b-41d0-93c4-09af963d649e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6QqYthbL/unnamed.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
+https://web-streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6QqYthbL/unnamed.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MekongNet.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MekongNet
+https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sXyx5nFy/5.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EACNews
 https://cdn.pdtvhd.com/LiveApp/streams/Eacnews.m3u8
 #EXTINF:-1 tvg-id="https://i.postimg.cc/sgk4CRWN/unnamed-(1).png" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Wiki TV
