@@ -1,183 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/PJ6v4PvN/TSN-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TSN Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PJ6v4PvN/TSN-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TSN Sports
 https://ip.pdtvhd.com/Sports/streams/TSNSports.m3u8
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/0jvJ7n7w/Fox-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fox Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0jvJ7n7w/Fox-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fox Sports
 https://ip.pdtvhd.com/live/streams/FoxSports1HD.m3u8
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/pXH8ZpV8/logo.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sporttv
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXH8ZpV8/logo.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sporttv
 https://ip.pdtvhd.com/Sports/streams/sporttv1..m3u8
 #EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/QC3pf5Pt/logo5.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Record Sports
 https://stream.pdtvhd.com/Sports/streams/Record.m3u8 
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/CKPKXWxy/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV Sports 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CKPKXWxy/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV Sports 
 https://stream.pdtvhd.com/Sports/streams/1001TV.m3u8
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MSR 
-http://165.22.251.215:5080/WebRTCAppEE/play.html?id=EnglandvsCroatia                    
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",A24
-https://live-evg3.tv360.metfone.com.kh/live_hq/13_metfone_film/chunks.m3u8
-#EXTINF:-1 tvg-id="MoINFTV.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ក្រសួងព័ត៌មាន
-https://restream.pdtvhd.com/memfs/309a68d6-96a1-498e-85ed-ec0bbf1ef5f6_output_0.m3u8?session=nS8nwoVs2BpDCFhqBu24ZW
-#EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
-https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
-https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EBC_Edu." tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC_Edu.
-https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
-#EXTINF:-1 tvg-id="KoreanDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KoreanDrama
-https://live.dtvhd.com/live/streams/KoreanDrama.m3u8
-#EXTINF:-1 tvg-id="CHAMBER TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CHAMBER TV
-https://live.happywatch99.com/ccochdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="PP Digital TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV
-https://live.happywatch99.com/ppdhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="CA TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CA TV
-https://live.happywatch99.com/kaahdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id=" SHS TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ", SHS TV
-https://live.happywatch99.com/shshdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
-https://restream.dtvhd.com/memfs/2952be40-51cc-4366-ac15-28a438e3e7c5_output_0.m3u8?session=BELJDMfBDwyQQXzk4UbNZF
-#EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
-https://live.dtvhd.com/LiveApp/streams/NTVHDA.Dtvhd.com.m3u8
-#EXTINF:-1 tvg-id="NTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
-http://43.252.18.195:5080/LiveApp/streams/ntvhd.m3u8
-#EXTINF:-1 tvg-id="KhmerTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KhmerTV
-https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News 
-https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
-#EXTINF:-1 tvg-id="EACNewsTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EAC​ News
-http://43.252.18.195:5080/LiveApp/streams/eacnews.m3u8
-#EXTINF:-1 tvg-id="WCVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WCVNews
-http://43.252.18.195:5080/live/streams/WCVNews.playlist.m3u8
-#EXTINF:-1 tvg-id="ChineseDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ChineseDrama
-http://43.252.18.195:5080/live/streams/ChineseDrama.playlist.m3u8
-#EXTINF:-1 tvg-id="KoreanDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KoreanDrama
-http://43.252.18.195:5080/live/streams/KoreanDrama.playlist.m3u8
-#EXTINF:-1 tvg-id="KPS99TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
-https://restream.pdtvhd.com/memfs/42e9e6bf-80b9-46c2-b59b-d6b501d82918_output_0.m3u8?session=5hyZSonYUfVApuMKx3Up3L
-#EXTINF:-1 tvg-id="FreshNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News 
-https://web-streaming.freshnewsasia.com/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FreshNews.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
-http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="MekongNet.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MekongNet
-https://stream.mekongtv.net/livemp4/mekongnet.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="BayonTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",បាយ័ន
-https://live.pdtvhd.com/live/streams/bayon.m3u8
-#EXTINF:-1 tvg-id="BTVNews.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV News 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",
+http://165.22.251.215:5080/WebRTCAppEE/play.html?id=EnglandvsCroatia  
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/xds5mfzX/kkkk.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9FWD6GSM/2222.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
 https://live.pdtvhd.com/live/streams/btv.m3u8
-#EXTINF:-1 tvg-id="CITVChannel.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CITVChannel
-http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
-#EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
-http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
-#EXTINF:-1 tvg-id="NiceTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Nice TV
-http://43.252.18.195:5080/live/streams/Netflix.playlist.m3u8
-#EXTINF:-1 tvg-id="HangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ហង្សមាស
-http://clive.malisresidences.com:1935/hm_hdtv/_definst_/smil:hmhdt12356.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RasmeyHangMeasHDTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",រស្មីហង្សមាស
-http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Apsara.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
-https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN 
-https://live.pdtvhd.com/live/streams/ctn.m3u8
-#EXTINF:-1 tvg-id="CTN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
-http://43.252.18.195:5080/live/streams/ctn052025.m3u8
-#EXTINF:-1 tvg-id="CNC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CNC
-https://live.pdtvhd.com/live/streams/cnc.m3u8
-#EXTINF:-1 tvg-id="MyTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MYTV
-https://live.pdtvhd.com/live/streams/mytv.m3u8
-#EXTINF:-1 tvg-id="CTV9.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV9
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MP1JGP6/BAYON-TV-LOGO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BayonTV
+https://live.pdtvhd.com/live/streams/bayon.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
+https://live.happywatch99.com/ctn/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Nd17P5P/cnc.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",CNC
+https://live.happywatch99.com/cnc/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Nj76hg2h/13-400-import.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MYTV
+https://live.happywatch99.com/mytv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2yhLkdGT/c312928b2c77-640-360.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Town HD
+https://stream.pdtvhd.com/live/streams/TOWNFULLHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Apsara
+https://server.dtvhd.com/memfs/7d0ed32f-fb50-4636-b990-0cc1211c073c.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5
+https://server.dtvhd.com/memfs/66558798-cda3-4c73-b884-3c68da473c35.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8
+https://9b6lez5elpxw-hls-live.5centscdn.com/ctv8/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SQCbRw14/CTV9-logo.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV9
 https://cdn.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
-#EXTINF:-1 tvg-id="iTVHD.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",iTVHD
-https://server.dtvhd.com/memfs/86546a28-c817-429e-a9d6-77936bc1e5ba_output_0.m3u8?session=Sy9MqsucRL3GV9kAU8ajQf
-#EXTINF:-1 tvg-id="KomsanTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KomsanTV 
-http://tv.cootel.com.kh:8077/streams/d/Komsan/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MSJTV 
-https://live-ali7.tv360.metfone.com.kh/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MSJTV 
-http://124.248.165.18:1935/live/myStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Netlink.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Netlink
-https://netlink.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="PNN.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",PNN 
-https://live.kh.malimarcdn.com/live/pnntvhd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PNN.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",PNN
-https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-#EXTINF:-1 tvg-id="SEATV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Y9wz1SP4/SEATV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",វិទ្យអាស៊ីអាគ្នេយ៍
-https://fmseatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 tvg-id="TV5Cambodia.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5 Cambodia 
-https://stream.mekongtv.net/live/tv5_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1772767804&mtvhash=ZadiPOmsDLP5S5c2MkO45ncWvNIVcIk3b84mADQLsZk=
-#EXTINF:-1 tvg-id="ARDBTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ARDBTV
-https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
-#EXTINF:-1 tvg-id="WikiTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WIKITV 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vTZ9zxtW/Tilsl-GU.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MSJ TV
+https://live.dtvhd.com/LiveApp/streams/MSJTV_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DwGTZj30/NTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",NTV
+https://live.dtvhd.com/LiveApp/streams/NTVHDA.Dtvhd.com.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2cVfK7h/Mo-INFO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MoINFO
+https://restream.pdtvhd.com/memfs/309a68d6-96a1-498e-85ed-ec0bbf1ef5f6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/G28Jwyyp/MOI-TV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MOITV
+https://restream.dtvhd.com/memfs/7a8a600e-5fb0-47a5-92cf-881e198e05a0.m3u8,
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/qMvkwxVy/photo-2024-06-03-07-51-59.png" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
+https://live.pdtvhd.com/LiveApp/streams/ABCCambodia.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mDjv1Krj/1.png" group-title="ប៉ុស្តិ៍ខ្មែរ",KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/DZ9F36FV/14.png" group-title="ប៉ុស្តិ៍ខ្មែរ",SHSTV
+https://live.happywatch99.com/shshdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9Qd25Zg6/13.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CHAMBER TV
+https://live.happywatch99.com/ccochdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1544QCDb/12.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PP Digital TV
+https://live.happywatch99.com/ppdhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1XQTKjsZ/15.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CATV
+https://live.happywatch99.com/kaahdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/6QqYthbL/unnamed.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fresh News
+https://restream.dtvhd.com/memfs/2e82fb81-bb5b-41d0-93c4-09af963d649e.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sXyx5nFy/5.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EACNews
+https://cdn.pdtvhd.com/LiveApp/streams/Eacnews.m3u8
+#EXTINF:-1 tvg-id="https://i.postimg.cc/sgk4CRWN/unnamed-(1).png" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Wiki TV
 https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
-#EXTINF:-1 tvg-id="WikiTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",WIKITV 
-http://206.189.93.160:1935/live/myStream_720p/playlist.m3u8?mtvstarttime=0&mtvendtime=1753778195&mtvhash=GKeLBrAud8oQXtRwOt3suV_hvOHmaNT7HeXoawZs5fo=
-#EXTINF:-1 tvg-id="MOITV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MOI TV
-http://202.62.56.22:8080/hls/MOITV.m3u8
-#EXTINF:-1 tvg-id="CTV8HD.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8 
-https://server.dtvhd.com/memfs/92d5968d-1b58-486d-a1ba-7b5a3f21c16c_output_0.m3u8?session=WYk6eMetsAVDtoPS4vw3ic
-#EXTINF:-1 tvg-id="AGG.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",AGGTV
-https://p1-es1-netcdn.metfone.com.kh/netcdn-live-30/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8?timestamp=1765102512&token=48d85ff0f166b5dc00530c154d83c9e3&uid=179
-#EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-102/live/streams/elearning.playlist.m3u8?timestamp=1765102227&token=6822a92a47bcc168aec19b72e821e26d&uid=179
-#EXTINF:-1 tvg-id="ABC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ABC Cambodia
-https://cdn.pdtvhd.com/LiveApp/streams/abccambodia_khmer_etv.playlist.m3u8
-#EXTINF:-1 tvg-id="TEAKHMER"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TEA Khmer
-https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TEAVN"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TEAVN
-https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="UNNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",UNWEBTV
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="Euronews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Euronews
-https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="France24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France24
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="Reuter.USA"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Reuter
-https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist1080P.m3u8
-#EXTINF:-1 tvg-id="FOXNEWS.USA"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",FOX NEWS
-https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="ABCNewsLive.us"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ABC News
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?pbs=74da62929f464f8680485e8677c24475
-#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT NEWS
-https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
-#EXTINF:-1 tvg-id="RTNEWS"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT documentary
-https://content-aaps1.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 1
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV+ 2
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN 
-https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master1080p.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Documentary
-https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Arabic
-https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN French 
-https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Russian
-https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Spanish 
-https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",NHK World-Japan 
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 tvg-id="rirangTV.kr"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ArirangTV
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT GLOBAL
-https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT GLOBAL
-https://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",i24News 
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",PRESSTV
-https://live.presstv.ir/hls/presstv.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/awIDugE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn"tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera EN
-https://live-hls-apps-aje-fa.getaj.net/alternative/AJE/01.m3u8
-#EXTINF:-1 tvg-id="WION"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION EN
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="DWNews"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW English
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="3/24"tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",324
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YqLRBnzf/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC Education
+https://restream.pdtvhd.com/memfs/5dc47eab-3fd3-4ad2-a35a-89581a2a7228.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/sD0mjNqj/16.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Netflix KH
+https://live.dtvhd.com/live/streams/Netflix.Dtvhd.com.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/MKkR9JCD/17.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Khmer Dub
+https://cdn.pdtvhd.com/LiveApp/streams/AGGMovieHD.tv360.metfone.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/1z4f9Wxr/18.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV
+https://cdn.pdtvhd.com/LiveApp/streams/TVBHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/L8Q80zJw/unnamed.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sastra Film
+https://cdn.pdtvhd.com/LiveApp/streams/SastrafilmHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0yMnH1Zm/9.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Comedy
+https://live.dtvhd.com/live/streams/CanDYHD.Dtvhd.com.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/7hnbmhJs/14.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Chinese Film
+https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/SNnJcTTP/8.png" group-title="ប៉ុស្តិ៍ខ្មែរ",A24
+https://live-evg3.tv360.metfone.com.kh/live_hq/13_metfone_film/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0NMTfmRP/9.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Netlink
+https://netlink.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Fzr77hr3/w6.png" group-title="ប៉ុស្តិ៍ខ្មែរ",We6
+https://live.pdtvhd.com/live/streams/we6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/vTyPFx1b/4.png" group-title="ប៉ុស្តិ៍ខ្មែរ",ARDBTV
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/JnfKHgwq/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sbm New
+https://restream.pdtvhd.com/memfs/87527b47-c03d-4e5c-a61f-33e47c8a99df.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/RVQ462wf/6.png" group-title="ប៉ុស្តិ៍ខ្មែរ",KPS99TV
+https://restream.pdtvhd.com/memfs/42e9e6bf-80b9-46c2-b59b-d6b501d82918.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m2sJhzHn/Chinese-Drama.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Chinese Drama
+https://live.dtvhd.com/live/streams/ChineseDrama.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wB7bnDCc/Korean-Drama.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Korean Drama
+https://live.dtvhd.com/live/streams/KoreanDrama.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3RfM3BTm/5.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Kpop Mix
+https://restream.pdtvhd.com/memfs/13796778-949e-4628-b63b-e50c2bbeb6a6.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wjjhmQ86/3.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Kpop Play
+https://restream.pdtvhd.com/memfs/003aaadb-6919-4654-9982-29292642d9d8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d00SbYVk/B7ILXMc.png" group-title="ប៉ុស្តិ៍ខ្មែរ",KPop
+https://restream.pdtvhd.com/memfs/b6ff2d09-e470-438f-b2e3-b96d1e39d7fc.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/8kjy9vZH/12.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Cartoon Network
+https://live.pdtvhd.com/live/streams/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/FHb38Cyy/2.png" group-title="ប៉ុស្តិ៍ខ្មែរ",ZooMoo Kids
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/m28NknPP/logo-(1).png" group-title="ប៉ុស្តិ៍ខ្មែរ",Cartoonito
+https://live.pdtvhd.com/live/streams/cartoonito.m3u8
