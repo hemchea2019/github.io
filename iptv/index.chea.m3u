@@ -1,22 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFAWorldCup" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",FOX_FIFA World Cup
-https://livecdn-bp-dara.maypn.stream/stream/6/chunks.m3u8?is_vip=true&token=dara-jo7cwgff&x-sign=40286898c128c79139f57f41260dfe38&x-time=1781402160
-#EXTINF:-1 tvg-id="FIFAWorldCup" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",FIFA World Cup
-https://stream.pdtvhd.com/LiveApp/streams/FIFAWorldCup.m3u8
-#EXTINF:-1 tvg-id="TVRI Sport" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVRI Sport
-https://live.pdtvhd.com/LiveApp/streams/fifa.m3u8
-#EXTINF:-1 tvg-id="1001TV" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV
-https://stream.pdtvhd.com/LiveApp/streams/1001TV.m3u8
 #EXTINF:-1 tvg-id="A24.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",A24
 https://live-evg3.tv360.metfone.com.kh/live_hq/13_metfone_film/chunks.m3u8
-#EXTINF:-1 tvg-id="EBC_Edu." tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC_Edu.
-https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="MoINFTV.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",ក្រសួងព័ត៌មាន
-https://p1-es2-netcdn.metfone.com.kh/netcdn-live-37/live/streams/mo_info_tv_II.m3u8?timestamp=1772790621&token=ca042ac602aababdc76f185dc1f5ecbe&uid=179
+https://restream.pdtvhd.com/memfs/309a68d6-96a1-498e-85ed-ec0bbf1ef5f6_output_0.m3u8?session=nS8nwoVs2BpDCFhqBu24ZW
 #EXTINF:-1 tvg-id="TVK.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK 
 https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVK2.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2 
 https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EBC_Edu." tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC_Edu.
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="KoreanDrama.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",KoreanDrama
 https://live.dtvhd.com/live/streams/KoreanDrama.m3u8
 #EXTINF:-1 tvg-id="CHAMBER TV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CHAMBER TV
@@ -61,8 +53,6 @@ https://live.pdtvhd.com/live/streams/bayon.m3u8
 https://live.pdtvhd.com/live/streams/btv.m3u8
 #EXTINF:-1 tvg-id="CITVChannel.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CITVChannel
 http://43.252.18.195:5080/live/streams/CITVChannel.playlist.m3u8
-#EXTINF:-1 tvg-id="EBC.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC
-https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
 #EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="NiceTV.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",Nice TV
