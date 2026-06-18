@@ -125,3 +125,97 @@ https://stream.pdtvhd.com/LiveApp/streams/ONEChampionship.m3u8
 https://live.pdtvhd.com/live/streams/astro.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5qGvTwG/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PREMIER 
 https://restream.dtvhd.com/memfs/94e924cf-f644-4f56-b5f6-fd35e0c0252c.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",PRESSTV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/YCgBHY0y/5.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Sky Sport
+https://restream.pdtvhd.com/memfs/191b4b12-fa6b-4507-93d9-2b1dac47efc4.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/8CBGBTfs/skysportfootball.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Skysportfootball
+https://restream.pdtvhd.com/memfs/2bcd84f9-2987-4fee-9eb8-a1b36bfee21b.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Twpk296k/laliga.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",laliga  Sport
+https://restream.pdtvhd.com/memfs/a2e31d6c-c858-46c4-a3e1-e5bc2844bcdf.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/2SHcg5Fd/6.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",beIN Sports 1
+https://ip.pdtvhd.com/live/streams/beINSports1.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/MGL1jmsD/be-IN-SPORTS-8-PREMIUM.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",beIN SPORTS 8
+https://restream.pdtvhd.com/memfs/98e87097-8358-4fcd-af62-2c22477898e1.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/FHDsdJJX/Bei-N-Sports-Xtra.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",BeiN Sports Xtra
+https://restream.dtvhd.com/memfs/45601845-15bd-42c6-b071-4612ba2d788e.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/9MjfQJwF/TVRI-Sport.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TVRI Sport
+https://restream.pdtvhd.com/memfs/8de6fd69-9357-4e58-9884-84cb5d835b63.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/NfLQYWCp/TSport.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TSport 
+https://live.dtvhd.com/LiveApp/streams/tsport.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/XqThxgHf/Ty-C-Sports.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TyC Sports 
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8"
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/X7HBDbP7/Redbull.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Redbull 
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/R0wq0jFR/HBO.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",HBO
+https://restream.pdtvhd.com/memfs/89189d1c-1713-4190-9730-f47473c147db.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/8zMTdLSN/HBO1.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",HBO1
+https://restream.pdtvhd.com/memfs/70f44282-1a31-4d2a-8af9-50ef15ce2e58.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/SQnR22JQ/Netflix-N.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",NETFLIX
+https://restream.dtvhd.com/memfs/2286d0b4-65b9-497e-9130-0bc43c149c4c.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/xdsv1SB3/History.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",History
+https://server.dtvhd.com/memfs/10a390b8-be4c-4d95-a0c3-06bdf70b0193.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/rw6bT7rK/AXN-MOVIE.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",AXN MOVIE
+https://live.pdtvhd.com/live/streams/axnmovie.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/pdnWpf6Z/Star-Movies.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Star Movies
+https://restream.pdtvhd.com/memfs/12e0742d-8262-44ba-aa3c-8317dbd35ac4.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Fs591CtG/Cinema-HD.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CinemaHD1
+https://live.pdtvhd.com/live/streams/cinemaworld1.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Fs591CtG/Cinema-HD.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CinemaHD2
+https://live.pdtvhd.com/live/streams/cinemaworld2.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/V6qKgN6k/lotus.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",lotus
+https://live.pdtvhd.com/live/streams/lotus.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Wz2c6C23/Rock-action.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Rock action
+https://live.pdtvhd.com/live/streams/rockaction.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/N0m0NhwG/Rock-Entertainment.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Rock Entertainment
+https://live.pdtvhd.com/live/streams/rockentertainment.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Y90L04BQ/animax.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Animax Asia
+https://live.pdtvhd.com/live/streams/animaxasia.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/fWJ80ZsD/unnamed.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/HncJBrLy/images-1-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/yYTK2VSr/6.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/gJMk9m7S/3.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Fox News
+https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/qvdr5NRJ/4.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",NHK World
+https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/mgq55qVn/7.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",City News
+https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/3r4HrX0T/free-aljazeera-logo-icon-svg-download-png-461765.webp" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/03.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/hPXRj9J1/NBC-5-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",NBC 5
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/1zn8rgY5/images-2-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Documentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CGTNArabic.cn" tvg-logo="https://i.imgur.com/AkFFrS7.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" tvg-logo="https://i.imgur.com/BwhledK.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN French 
+https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNRussian.cn" tvg-logo="https://i.imgur.com/nDWkCmL.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Russian
+https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CGTN Spanish 
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/d1hjdtG8/channels4-profile-(1).jpg" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TVRI Worl
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/cHRPpmbq/Russia-today-logo-svg.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT News
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/T3T1F779/TRT-World-Radio-logo-svg.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/MT2D8JCT/8-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW NEWS
+https://dwamdstream102.akamaized.net/hls/live/2015525-b/dwstream102/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/8Cqvrd4m/mobile-app-icon-new.webp" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TV5 Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/9F3xjZj4/7.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV Plus
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/HsBTNpqj/png-clipart-cnbc-logo-of-nbc-television-others-miscellaneous-television-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CNBC
+https://liveh34.vtvprime.vn/hls/CNBC/03.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Bvtbp8bz/images-(1).png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",France 24
+https://live-evg8.tv360.metfone.com.kh/manifest/France24-sd/playlist_480p1p1.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/wMKw6k85/b-ZWo-DTg.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CineSony
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/ZKnWbzHN/30atvclassicmovies-u.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ATVClassicMovies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
