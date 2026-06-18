@@ -20,6 +20,8 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
+https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1781860127&mtvhash=SvxzZX-kFqIowGkOkp5wAPNysq-6pjBzf6NPyGNbm0w=
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
 https://live.pdtvhd.com/live/streams/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MP1JGP6/BAYON-TV-LOGO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BayonTV
 https://live.pdtvhd.com/live/streams/bayon.m3u8
