@@ -149,8 +149,6 @@ https://stream.pdtvhd.com/LiveApp/streams/ONEChampionship.m3u8
 https://live.pdtvhd.com/live/streams/astro.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/k5qGvTwG/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",PREMIER 
 https://restream.dtvhd.com/memfs/94e924cf-f644-4f56-b5f6-fd35e0c0252c.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",PRESSTV
-https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/YCgBHY0y/5.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Sky Sport
 https://restream.pdtvhd.com/memfs/191b4b12-fa6b-4507-93d9-2b1dac47efc4.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/8CBGBTfs/skysportfootball.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Skysportfootball
@@ -231,6 +229,8 @@ https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-r
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/cHRPpmbq/Russia-today-logo-svg.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="ប៉ុស្តិ៍អន្តរជាតិ",PRESSTV
+https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/T3T1F779/TRT-World-Radio-logo-svg.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",TRT WORLD
 https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/MT2D8JCT/8-removebg-preview.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",DW NEWS
