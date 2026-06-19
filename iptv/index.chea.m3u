@@ -285,6 +285,18 @@ https://live.dtvhd.com/LiveApp/streams/cctv15.m3u8
 https://live.dtvhd.com/LiveApp/streams/cctv16.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/qRx0gqLX/17.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",CCTV17
 https://live.dtvhd.com/LiveApp/streams/cctv17.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_1
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_2
+https://d7x8z4yuq42qn.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_3
+https://d7x8z4yuq42qn.cloudfront.net/index_3.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_4
+https://d7x8z4yuq42qn.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_5
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",WION_7
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Xq0P7V0s/an-hui-wei-shi.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",安徽卫视
 https://restream.pdtvhd.com/memfs/d708f434-d0c7-47aa-a1e5-772c430dc096.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/Z5y6j6d1/chong-qing-wei-shi.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",重庆卫视
