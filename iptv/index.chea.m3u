@@ -23,6 +23,8 @@ https://live.happywatch99.com/rhm/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9FWD6GSM/2222.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TVK2
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZK6MdXfZ/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",ITV HD
+https://server.dtvhd.com/memfs/00df254f-2029-499f-a9e3-0e1e8217aab9.m3u8
 #EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YqLRBnzf/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC Education
