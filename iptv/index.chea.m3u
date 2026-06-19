@@ -203,6 +203,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/qvdr5NRJ/4.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",NHK World
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="rirangTV.kr"tvg-logo="https://i.imgur.com/5Aoithj.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",ArirangTV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/mgq55qVn/7.png" group-title="ប៉ុស្តិ៍អន្តរជាតិ",City News
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="https://i.postimg.cc/3r4HrX0T/free-aljazeera-logo-icon-svg-download-png-461765.webp" group-title="ប៉ុស្តិ៍អន្តរជាតិ",Al Jazeera
