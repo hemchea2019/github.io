@@ -51,9 +51,11 @@ https://live.happywatch99.com/mytv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2yhLkdGT/c312928b2c77-640-360.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Town HD
 https://stream.pdtvhd.com/live/streams/TOWNFULLHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Apsara
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
+https://live.happywatch99.com/apsara11/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://live.ams.com.kh/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Apsara
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://server.dtvhd.com/memfs/7d0ed32f-fb50-4636-b990-0cc1211c073c.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5
 https://server.dtvhd.com/memfs/66558798-cda3-4c73-b884-3c68da473c35.m3u8
