@@ -34,7 +34,7 @@ https://restream.pdtvhd.com/memfs/5dc47eab-3fd3-4ad2-a35a-89581a2a7228.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2026/05/20/11/1779251231428/1c5c1eb223ea_480_270.png" group-title="ប៉ុស្តិ៍ខ្មែរ",AGG HDTV
 https://p1-es1-netcdn.metfone.com.kh/netcdn-live-185/LiveApp/streams/AGGMovieHD.tv360.metfone.m3u8?timestamp=1781958789&token=d3d495dc6651887c6dc2ad383d80ef0e&wmkid=0&uid=179
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
-https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8
+https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1782032074&mtvhash=jNxKAO4mLcQicxbv15R387VL1JohbJTLWD6QbwNkcIA=
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
 https://live.happywatch99.com/btv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
