@@ -29,6 +29,8 @@ https://server.dtvhd.com/memfs/00df254f-2029-499f-a9e3-0e1e8217aab9.m3u8
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YqLRBnzf/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC Education
 https://restream.pdtvhd.com/memfs/5dc47eab-3fd3-4ad2-a35a-89581a2a7228.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2026/05/20/11/1779251231428/1c5c1eb223ea_480_270.png" group-title="ប៉ុស្តិ៍ខ្មែរ",AGG HDTV
+https://p1-es1-netcdn.metfone.com.kh/netcdn-live-185/LiveApp/streams/AGGMovieHD.tv360.metfone.m3u8?timestamp=1781958789&token=d3d495dc6651887c6dc2ad383d80ef0e&wmkid=0&uid=179
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
 https://p1-es1-netcdn.metfone.com.kh/netcdn-live-7/livetest/bayontest.stream/chunklist_w710192426.m3u8?timestamp=1781958525&wmkid=0&uid=179&token=7f2cd71583a067f72eb7a98cf6c93613
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
