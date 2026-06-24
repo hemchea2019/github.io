@@ -10,7 +10,7 @@ https://stream.pdtvhd.com/Sports/streams/Record.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CKPKXWxy/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV Sports 
 https://stream.pdtvhd.com/Sports/streams/1001TV.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MSR
-http://165.22.251.215:5080/WebRTCAppEE/play.html?id=MSR-Live
+https://stream.vsoccer.tv/WebRTCAppEE/play.html?id=colombia-dr-congo-1782225274
 #EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-logo="https://i.postimg.cc/pLyc130y/Sangkem.webp" group-title="ប៉ុស្តិ៍ខ្មែរ",Sangkem TV
 https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-id="UNNEWS"tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អង្គការសហប្រជាជាតិ
