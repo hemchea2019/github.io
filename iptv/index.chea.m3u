@@ -2,17 +2,15 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/PJ6v4PvN/TSN-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TSN Sports
 https://ip.pdtvhd.com/Sports/streams/TSNSports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/0jvJ7n7w/Fox-Sports.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Fox Sports
-https://ip.pdtvhd.com/live/streams/FoxSports1HD.m3u8
+https://stream.pdtvhd.com/Sports/streams/FoxSports.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",CCTV+
+https://ip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/pXH8ZpV8/logo.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sporttv
 https://ip.pdtvhd.com/Sports/streams/sporttv1..m3u8
-#EXTINF:-1 tvg-id="A24.kh" tvg-logo="https://i.postimg.cc/QC3pf5Pt/logo5.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Record Sports
-https://stream.pdtvhd.com/Sports/streams/Record.m3u8 
+#EXTINF:-1 tvg-id="A24.kh" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",beINSports
+https://ip.pdtvhd.com/Sports/streams/beINSports.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/CKPKXWxy/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",1001TV Sports 
 https://stream.pdtvhd.com/Sports/streams/1001TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",MSR
-https://stream.vsoccer.tv/WebRTCAppEE/play.html?id=colombia-dr-congo-1782225274
-#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-logo="https://i.postimg.cc/pLyc130y/Sangkem.webp" group-title="ប៉ុស្តិ៍ខ្មែរ",Sangkem TV
-https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-id="UNNEWS"tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អង្គការសហប្រជាជាតិ
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/59CcDc6H/logo-(2).png" group-title="ប៉ុស្តិ៍ខ្មែរ",Sabay one 1
@@ -27,14 +25,18 @@ https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
 https://stream.mekongtv.net/livemp4/B2BChannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZK6MdXfZ/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",ITV HD
 https://server.dtvhd.com/memfs/00df254f-2029-499f-a9e3-0e1e8217aab9.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZK6MdXfZ/logo-(4).png" group-title="ប៉ុស្តិ៍ខ្មែរ",ITV HD
+https://live.eac-news.com/Khmer/streams/ITVHD.m3u8
 #EXTINF:-1 tvg-id="E-Learning.kh@SD"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",E-Learning
 http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/YqLRBnzf/New-Project.png" group-title="ប៉ុស្តិ៍ខ្មែរ",EBC Education
 https://restream.pdtvhd.com/memfs/5dc47eab-3fd3-4ad2-a35a-89581a2a7228.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-logo="https://i.postimg.cc/pLyc130y/Sangkem.webp" group-title="ប៉ុស្តិ៍ខ្មែរ",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://img-evg4.tv360.metfone.com.kh/vtc-image/2026/05/20/11/1779251231428/1c5c1eb223ea_480_270.png" group-title="ប៉ុស្តិ៍ខ្មែរ",AGG HDTV
 https://p1-es1-netcdn.metfone.com.kh/netcdn-live-185/LiveApp/streams/AGGMovieHD.tv360.metfone.m3u8?timestamp=1781958789&token=d3d495dc6651887c6dc2ad383d80ef0e&wmkid=0&uid=179
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
-https://stream.mekongtv.net/live/bayontv1_480k.stream/playlist.m3u8?mtvstarttime=0&mtvendtime=1782032074&mtvhash=jNxKAO4mLcQicxbv15R387VL1JohbJTLWD6QbwNkcIA=
+https://live.eac-news.com/Khmer/streams/BTVHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
 https://live.happywatch99.com/btv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/mrt0X6hX/BTV.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BTV
@@ -42,27 +44,35 @@ https://live.pdtvhd.com/live/streams/btv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MP1JGP6/BAYON-TV-LOGO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BayonTV
 https://live.happywatch99.com/bayon/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MP1JGP6/BAYON-TV-LOGO.png" group-title="ប៉ុស្តិ៍ខ្មែរ",BayonTV
-https://live.pdtvhd.com/live/streams/bayon.m3u8
+https://live.eac-news.com/Khmer/streams/bayonhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
 https://live.happywatch99.com/ctn/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r523kOq.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTN
+https://live.eac-news.com/Khmer/streams/CTNHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Nd17P5P/cnc.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",CNC
 https://live.happywatch99.com/cnc/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/3Nd17P5P/cnc.jpg" group-title="ប៉ុស្តិ៍ខ្មែរ",CNC
+https://live.eac-news.com/Khmer/streams/CNCHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Nj76hg2h/13-400-import.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MYTV
 https://live.happywatch99.com/mytv/0c00b89a106bb365ec031b28fa3ae499.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Nj76hg2h/13-400-import.png" group-title="ប៉ុស្តិ៍ខ្មែរ",MYTV
+https://live.eac-news.com/Khmer/streams/MYTV.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="https://i.postimg.cc/2yhLkdGT/c312928b2c77-640-360.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
 http://43.252.18.195:5080/live/streams/Town_khmer_etv.playlist.m3u8
-#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
+#EXTINF:-1 tvg-id="TownTV.kh"tvg-logo="https://i.postimg.cc/2yhLkdGT/c312928b2c77-640-360.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TownTV
 https://live.happywatch99.com/townfullhdtv/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/2yhLkdGT/c312928b2c77-640-360.png" group-title="ប៉ុស្តិ៍ខ្មែរ",Town HD
-https://stream.pdtvhd.com/live/streams/TOWNFULLHD.m3u8
+https://live.eac-news.com/Khmer/streams/TOWNHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://live.happywatch99.com/apsara11/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
 https://live.ams.com.kh/app/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9wJe71I.png" group-title="ប៉ុស្តិ៍ខ្មែរ",អប្សារា
-https://server.dtvhd.com/memfs/7d0ed32f-fb50-4636-b990-0cc1211c073c.m3u8
+https://live.eac-news.com/Khmer/streams/Apsara.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iMZLyoX.png" group-title="ប៉ុស្តិ៍ខ្មែរ",TV5
-https://server.dtvhd.com/memfs/66558798-cda3-4c73-b884-3c68da473c35.m3u8
+https://live.eac-news.com/Khmer/streams/TV5HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8
+https://live.eac-news.com/Khmer/streams/CTV8HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8
 https://live.happywatch99.com/ctv8/0c00b89a106bb365ec031b28fa3ae499.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yrdr4Po.png" group-title="ប៉ុស្តិ៍ខ្មែរ",CTV8
